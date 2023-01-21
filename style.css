@@ -1,0 +1,337 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar
+{
+    display: flex;
+    margin-left: 300px;
+    
+}
+.navbar .logo
+{
+    height: 300px;
+    width: 300px;
+    margin-top: -100px;
+    color: aquamarine;
+
+}
+.navbar-liste
+{
+    margin-left: 600px;
+    margin-top: 30px;
+    color: aquamarine;
+}
+.photo{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cheikh{
+    text-align: center;
+    margin-top: 1cm;
+}
+.after{
+    margin-left: 90px;
+    margin-top: 1cm;
+    display: flex;
+    width: 90%;
+    margin-right: 100px;
+    justify-content: space-around;
+}
+
+.navbar-liste  a :hover{
+       color: aquamarine;
+} 
+
+.section2_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1{
+    background-color: aqua;
+    margin-right: 4cm;
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.box2{
+    background-color: blue;
+    margin-right: 3px;
+    height: 200px;
+    border-radius:10px;
+    margin-top: 30px;
+}
+.box3{
+    background-color: black;
+    margin-left: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.omar{
+    color: white;
+    margin-top: 10px;
+}
+.logo {
+width:100% ;
+display: flex;
+justify-content:flex-end ;
+position: relative;
+bottom: 100px;
+margin-left:60px;
+
+}
+ .logoimage{
+    margin: left 300px;
+    margin-bottom: 60px;
+    position: relative;
+    bottom: 20px;
+    margin-right: 60px;
+ }
+ .page{
+    font-size: large;
+    max-width: 5cm;
+    margin-left: 4cm;
+    color: aquamarine;
+    margin-top: 70px; 
+    }
+    .sonko{
+        font-size: x-large;
+        color: rgb(32, 177, 177);
+        height: 200px;
+        width: 200px;
+        margin-left: 5cm;
+        text-align: center;
+    }
+    .touty{
+       font-size: small;  
+       color: black;
+       margin-right: 300px;
+       height: 200px;
+       width: 200px;
+       text-align: center;
+    }
+    .bouly{
+        color: rgb(44, 221, 162);
+        display: flex;
+        margin-left: 150px;
+    }
+    .mauris{
+    color: black;
+        display: flex;
+        margin-left: 150px;
+    }
+.logoimage {
+    margin-left: 60px;
+    margin-left: 80px
+
+}
+.deuxp1{
+    margin-left: 800px;
+    bottom: 10px;
+    text-align: center;
+    
+}.box11{
+   background-color: white; 
+   height:240px ;
+   width: 210px;
+   border-radius: 10px;
+   margin-top: -60%;
+   margin-left: 200px;
+}
+.box22{
+    background-color: white;
+    height:240px ;
+    width: 210px;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: -25%;
+}
+.box33{
+    margin-right: 100px;
+    background-color: white;
+    height: 240px;
+    width: 210px;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-top: 5px;
+}
+.box44{
+    background-color: white;
+    margin-left: 500px;
+    height: 240px;
+    width: 210px;
+    border-radius: 10px;
+    margin-top:-30%;
+}
+.generale{
+    background-color: rgb(175, 241, 241);
+}
+.poule{
+    text-align: center;
+}
+.elou{
+    color: aqua;
+    font-size: medium;
+}
+.the{
+    color: aqua;
+    font-size: medium;
+}
+.youpi{
+    color: aqua;
+    font-size: medium;
+}
+.countries{
+    color: aqua;
+    font-size: medium;
+}
+.vip{
+    color: aqua;
+}
+.bourr{
+    display: block;
+    
+    
+}
+.image1{
+margin-left: 80px;
+margin-top: 50px;
+}
+.warr{
+    margin-left:80px;
+    font-size: larger;
+}
+.see{
+    margin-left: 100px;
+    color:white;
+    background-color: blue;
+}
+.image2{
+    margin-left: 500px;
+    margin-top: -20%;
+    border-radius: 10px;
+}
+.see2{
+  margin-left:100px;
+  background-color: blue;
+  color: white;
+}
+.Barcelone{
+    margin-left: 500px;
+    font-size: larger;
+}
+.image3{
+    margin-left: 948px;
+    margin-top: -20%;
+    border-radius: 10px;
+}
+.Munich{
+margin-left:940px;
+font-size: larger;
+}
+.see3{
+    margin-left:120px;
+    color: white;
+    background-color: blue;
+}
+.image4{
+    margin-left:70px;
+}
+.Istanbul{
+    margin-left: 70px;
+    font-size: larger;
+}
+.see4{
+    margin-left: 113px;
+    color: white;
+    background-color: blue;
+}
+.image5{
+    margin-left: 500px;
+    margin-top: -20%;
+}
+.see5{
+    margin-left: 150px;
+    color: white;
+    background-color: blue;
+}
+.Rome{
+    margin-left: 500px;
+    font-size: larger;
+}
+.Image6{
+    margin-left: 910px;
+    margin-top:-20%;
+}
+.see6{
+    margin-left: 100px;
+    color: white;
+    background-color: blue;
+}
+.Bologna{
+    margin-left: 930px;
+    font-size: larger;
+}
+.Image7{
+    margin-left: 70px;
+}
+.curitiba{
+    font-size: larger;
+    margin-left: 90px;
+}
+.see7{
+    margin-left: 90px;
+    color: white;
+    background-color: blue;
+}
+.image8{
+    margin-left:478px ;
+    margin-top: -20%;
+}
+.Janeiro{
+    margin-left: 480px;
+    font-size: larger;
+}
+
+.see8{
+    margin-left: 70px;
+    color: white;
+    background-color: blue;
+}
+.image9{
+    margin-left: 900px;
+    margin-top:-20%;
+}
+.Mexico{
+    margin-left:900px;
+    font-size: larger;
+}
+.see9{
+margin-left: 20px;
+color: white;
+background-color: blue;
+}
+.free{
+text-align: center;
+margin-top: 50px;
+}
+.Omou{
+    font-size: xx-large;
+}
+.barry{
+    font-size: large;
+    color: white;
+    background-color: blue;
+}
+.center{
+    text-align: center;
+}
+    
+
+    
